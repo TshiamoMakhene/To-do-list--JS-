@@ -63,4 +63,16 @@ li:hover {
     background: rgb(255, 168, 168)
 }
 
-.close
+.close {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    display: inline-block;
+    padding: 10.75px;
+    border: 0;
+    background: transparent;
+}
+
+.close:hover {
+    background: (255, 68, 68);
+}
